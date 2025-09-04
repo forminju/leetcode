@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/forminju/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -18,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/forminju/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
