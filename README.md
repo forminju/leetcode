@@ -25,4 +25,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/forminju/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
