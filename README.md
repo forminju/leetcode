@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/forminju/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/forminju/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -34,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/forminju/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
