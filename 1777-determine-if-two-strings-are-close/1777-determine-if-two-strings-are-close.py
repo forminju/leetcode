@@ -6,8 +6,8 @@ class Solution:
         if len(word1) != len(word2):
             return False
 
-        if set(word1) == set(word2):
-            cnt1, cnt2 = Counter(word1), Counter(word2)
+        cnt1, cnt2 = Counter(word1), Counter(word2)
+        if sorted(cnt1.keys()) == sorted(cnt2.keys()):
             return True if sorted(cnt1.values()) == sorted(cnt2.values()) else False
 
         return False
