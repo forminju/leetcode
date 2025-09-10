@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/forminju/leetcode/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/forminju/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -70,9 +71,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/forminju/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/forminju/leetcode/tree/master/0969-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
