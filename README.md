@@ -81,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/forminju/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
