@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/forminju/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,4 +86,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/forminju/leetcode/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/forminju/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
