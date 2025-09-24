@@ -15,10 +15,10 @@ class Solution:
         curr, prev = slow, None
 
         while curr:
-            curr.next, prev, curr= prev, curr, curr.next
+            curr.next, prev, curr= prev, curr, curr.next # 뒤집어주고
 
         while prev:
-            maxVal = max(maxVal, head.val + prev.val)
+            maxVal = max(maxVal, head.val + prev.val) # maxval 구하기
             prev = prev.next
             head = head.next
 
