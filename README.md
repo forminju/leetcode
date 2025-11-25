@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/forminju/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Recursion
 |  |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/forminju/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/forminju/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -118,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
