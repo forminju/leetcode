@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
+| [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-unique-number-of-occurrences](https://github.com/forminju/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/forminju/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/forminju/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
 | [0872-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/forminju/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -131,4 +135,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
