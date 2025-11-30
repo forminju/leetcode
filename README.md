@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/forminju/leetcode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
+| [0686-repeated-string-match](https://github.com/forminju/leetcode/tree/master/0686-repeated-string-match) |
 | [1777-determine-if-two-strings-are-close](https://github.com/forminju/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/forminju/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/forminju/leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
