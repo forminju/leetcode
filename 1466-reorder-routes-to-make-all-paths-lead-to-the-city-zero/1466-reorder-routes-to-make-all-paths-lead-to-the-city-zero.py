@@ -1,7 +1,7 @@
 from collections import defaultdict
-
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
+
         graph = defaultdict(list)
 
         for a,b in connections:
@@ -12,12 +12,13 @@ class Solution:
 
         def dfs(node):
             visited[node] = True
+
             changes = 0
+
             for nei, cost in graph[node]:
                 if not visited[nei]:
-                    changes +=cost
-                    changes +=dfs(nei)
+                    changes += cost
+                    changes += dfs(nei)
             return changes
 
         return dfs(0)
-        
