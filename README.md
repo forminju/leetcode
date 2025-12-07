@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/forminju/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/forminju/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/forminju/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/forminju/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/forminju/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/forminju/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/forminju/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/forminju/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/forminju/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/forminju/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/forminju/leetcode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/forminju/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/forminju/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
