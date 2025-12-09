@@ -1,9 +1,11 @@
-from collections import deque
+from collections import deque 
 
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
+
         m,n = len(grid), len(grid[0])
-        q = deque()
+
+        q= deque()
         fresh = 0
 
         for i in range(m):
@@ -18,24 +20,24 @@ class Solution:
 
         dx = [-1,1,0,0]
         dy = [0,0,-1,1]
-        ans = 0
+        ans =0
 
-        while q and fresh >0:
+        while q and fresh > 0:
             for _ in range(len(q)):
-                x,y= q.popleft()
+                x, y = q.popleft()
 
                 for i in range(4):
                     nx = x + dx[i]
                     ny = y + dy[i]
 
-                    if 0<=nx<m and 0<=ny<n and grid[nx][ny] == 1:
-                        grid[nx][ny] =2 
+                    if 0<=nx<m and 0<=ny<n and grid[nx][ny] ==1:
+                        grid[nx][ny] = 2
                         fresh -=1
                         q.append((nx,ny))
-            
+
             ans +=1
 
         return ans if fresh == 0 else -1
-
+                    
         
         
