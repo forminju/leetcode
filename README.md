@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/forminju/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/forminju/leetcode/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/forminju/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-unique-number-of-occurrences](https://github.com/forminju/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/forminju/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/forminju/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/forminju/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/forminju/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/forminju/leetcode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/forminju/leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/forminju/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/forminju/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/forminju/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/forminju/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
