@@ -1,24 +1,18 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-
         n = len(rooms)
-        
         visited = [False] * n
+        visited[0] = True
+        stack = [0]
 
-
-        def dfs(room:int):
-            visited[room] = True
+        while stack:
+            room = stack.pop()
             for key in rooms[room]:
-                if visited[key] == False:
-                    dfs(key)
-
-        
-        dfs(0)
+                if not visited[key]:
+                    visited[key] = True
+                    stack.append(key)
 
         return all(visited)
-
-
-
 
 
 
