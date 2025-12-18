@@ -3,7 +3,7 @@ class Solution:
         n = len(isConnected)
         visited = [False] * n
         provinces = 0
-        
+
         def dfs(node):
             visited[node] = True
             for nei in range(n):
@@ -16,5 +16,4 @@ class Solution:
                 dfs(i)
 
         return provinces
-
         
