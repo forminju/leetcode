@@ -7,7 +7,8 @@ class Solution:
         def dfs(node):
             visited[node] = True
             for nei in range(n):
-                if isConnected[node][nei] == 1 and not visited[nei]:
+                if not visited[nei] and isConnected[nei][node] ==1:
+                    visited[nei] = True
                     dfs(nei)
 
         for i in range(n):
