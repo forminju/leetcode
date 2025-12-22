@@ -2,21 +2,20 @@ from collections import deque
 
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
+
         n = len(rooms)
         visited = [False] * n
-        visited[0] = True
         q = deque([0])
-
-        while q:
+        visited[0] = True
+        
+        while q :
             room = q.popleft()
+
             for key in rooms[room]:
-                if visited[key] == False:
+                if not visited[key]:
                     visited[key] = True
                     q.append(key)
 
         return all(visited)
-
-
-
 
         
