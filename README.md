@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/forminju/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forminju/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/forminju/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/forminju/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/forminju/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/forminju/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/forminju/leetcode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/forminju/leetcode/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/forminju/leetcode/tree/master/0686-repeated-string-match) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forminju/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/forminju/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
