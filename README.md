@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/forminju/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/forminju/leetcode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/forminju/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forminju/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/forminju/leetcode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/forminju/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/forminju/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forminju/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/forminju/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/forminju/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/forminju/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
