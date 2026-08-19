@@ -4,10 +4,15 @@ class Solution:
 
         for s in strs:
             key = ''.join(sorted(s))
-            if key not in group :
+
+            if key not in group:
                 group[key] = []
 
             group[key].append(s)
+            
+
 
         return list(group.values())
+            
+            
         
